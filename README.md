@@ -10,4 +10,4 @@ the calculator was created with the intention of typing some mathematical symbol
 Open the `index.html` file in a web browser.
 
 ## License
-This project is open and download for anyone to use.
+This project is licensed under the MIT License
